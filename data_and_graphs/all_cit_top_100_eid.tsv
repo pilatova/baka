@@ -1,0 +1,102 @@
+authfull	inst_name	scopus_id	moc_stary	uz_je	special	chyba
+Breiman, Leo	University of California, Berkeley	6701706461	1	asdf		
+Karniadakis, George Em	Brown University	55665002100		1		
+Tibshirani, Robert John	Stanford University	7005432426		1		
+White, Ian R.	University College London	35235524000		1		
+Hastie, Trevor J.	Stanford University	7004744483		1		
+Bowden, Jack M.	University of Exeter	26321030600		x		
+Bates, Douglas M.	School of Computer, Data & Information Sciences	7202955759				
+Baleanu, Dumitru I.	Lebanese American University	7005872966		x		
+Rubin, Donald B.	Harvard University	7202307156				
+Friedman, Jerome H.	Stanford University	7401866412				
+Gelman, Andrew E.	Columbia University	7007071352				
+Rabczuk, Timon	Bauhaus-Universität Weimar	56502462200				
+Perdikaris, Paris G.	University of Pennsylvania	35194560500				
+Klöckner, Andreas	Siebel School of Computing and Data Science	33067970700				
+Rothstein, Hannah R.	Baruch College	7005775808				
+Koch, Gary G.	UNC Gillings School of Global Public Health	7401744122		x		
+Nisar, Kottakkaran Sooppy	Prince Sattam Bin Abdulaziz University	56715663200				
+Candés, Emmanuel J.	Stanford University	6603825406				
+Raissi, Maziar	University of Colorado Boulder	56145252100				
+Carpenter, James R.	London School of Hygiene & Tropical Medicine	7402041051				
+Donoho, David L.	Stanford University	7006144847		x		
+Robins, James M.	Harvard T.H. Chan School of Public Health	35392741100				
+Hughes, Thomas J.R.	The University of Texas at Austin	55911870000				
+Paciorek, Christopher J.	University of California, Berkeley	57195729913				
+Shu, Chi Wang	Brown University	7202122336		x		
+Kumam, Poom	King Mongkut's University of Technology Thonburi	15056385100		x		
+Osher, Stanley Joel	University of California, Los Angeles	7005411569				
+Lu, Lu	Yale University	57189226888				
+Abdeljawad (Maraaba) T., Thabet	Prince Sultan University	6508051762				
+Hornik, Kurt	WU Vienna University of Economics and Business	7003276131				
+Raftery, Adrian E.	University of Washington	7006212242				
+Weinan, E. W.	AI for Science Institute	57194935723				
+Chu, Yuming	Huzhou University	9839077200		x		
+Rousseeuw, Peter J.	KU Leuven	7004333790		x		
+Srivastava, Hari M.	University of Victoria	23152241800				
+Royston, Patrick J.	University College London	55561839500				
+Belytschko, T. B.	Robert R. McCormick School of Engineering and Applied Science	35518913700	1	asdf		
+Wood, Simon N.	The University of Edinburgh	7401448389				
+Hothorn, Torsten	Universität Zürich	6603182407				
+Liu, Jun S.	Harvard Faculty of Arts and Sciences	55886002200				
+Fan, Jianqing	Princeton University	7402794720				
+Follmann, Dean A.	National Institute of Allergy and Infectious Diseases (NIAID)	7005319077				
+Akaike, Hirotsugu	The Institute of Statistical Mathematics	7003985470	1	asdf		
+Rosenbaum, Paul R.	Wharton School of the University of Pennsylvania	57203047081				
+Little, Roderick J.A.	University of Michigan, Ann Arbor	7202638843				
+Speed, Terence P.	University of Melbourne	57213574555		x		
+Akgül, Ali	Siirt Üniversitesi	58486733300	0	111		
+Bûhlmann, Peter	ETH Zürich	7004595232	0			
+Zeileis, Achim	Universität Innsbruck	6508193927	0		1x404	
+Atangana, Abdon	University of the Free State	55659450400	0			
+Zou, Hui	University of Minnesota Twin Cities	7202373047	0			
+Hyndman, Rob J.	Monash University	7006914313		x		
+Wang, Sifan	Yale University	57219690904	0			
+Li, Hongzhe	University of Washington School of Medicine	57196365859	0			
+Boulesteix, Anne Laure	Munich Center for Machine Learning	8702716900	0		2x404	
+Liu, Wing Kam Snm	LLC	7408469729		x		
+AHMAD, Bashir N.	King Abdulaziz University	56956443200	0			
+Tao, Terence Chi Shen	University of California, Los Angeles	7102792816		x		
+Gutman, Ivan	University of Kragujevac	7102696936	0			
+Lions, Pierre Louis	Collège de France	7005987058		x		
+Dunson, David B.	Duke University	7006472073		x		
+Bordas, Stéphane P.A.	Faculty of Science, Technology and Medicine	23033088300	0			
+Winkler, Michael	Paderborn University	7201543003	0			
+Momani, Shaher M.	The University of Jordan	8842321100	0			
+Agarwal, Ravi P.	Texas A&M University-Kingsville	36013313700	0			
+Liu, Guirong	College of Engineering and Applied Science	8242077900		x		
+Efron, Bradley	Stanford University	7004328455	0		1xwtf	85203407314
+Bazilevs, Yuri	School of Engineering	8582816900		x		
+Dehghan, M.	Amirkabir University of Technology	35579519800	0			
+Trojovský, Pavel	Univerzita Hradec Králové	57217635928	0			
+Fine, Jason Peter	University of Pittsburgh	7202421611	0			
+Bickel, Peter J.	University of California, Berkeley	7006834931	0	1		
+Balakrishnan, Narayanaswamy	McMaster University, Faculty of Science	57200264409		x		
+Mao, Xuerong	University of Strathclyde	57216338559	0	1		
+Ishwaran, Hemant	University of Miami Leonard M. Miller School of Medicine	7003266763	0	1		
+Bretz, Frank	Novartis International AG	6701707614	0	1		
+Shen, Jie	Eastern Institute of Technology, Ningbo	58793081800	0	1		
+Goodman, Jonathan B.	Courant Institute of Mathematical Sciences	7402288987	1	asdf		
+Kutyniok, Gitta	Deutsches Zentrum für Luft- und Raumfahrt (DLR)	6603116420		x		
+Mengersen, Kerrie L.	Queensland University of Technology	6603793565		x		
+Rezapour, Shahram	Azarbaijan Shahid Madani University	55935081600	0	1	1x404	
+Shah, Kamal	Prince Sultan University	56708052700	0	1		
+Josse, Julie	Université de Montpellier	24461842500	0	1		
+Yang, Liu	University of California, Los Angeles	57203122217	0	1	1_hit	
+Wriggers, Peter	Gottfried Wilhelm Leibniz Universität Hannover	7005798313	0	1		
+Yau, Shingtung	Shanghai Institute for Mathematics and Interdisciplinary Sciences	7202478337		x		
+Olkin, Ingram	Stanford University	7003974162	1	asdf		
+Rue, Håvard	King Abdullah University of Science and Technology	56250738500	0	1		
+Nieto, Juan J.	Universidade de Santiago de Compostela	35238377400	0	1	1x404	
+Li, Runze	Pennsylvania State University	7404723813	0	1		
+Tropp, Joel A.	California Institute of Technology Division of Engineering and Applied Science	7003918957	0	1		
+Wickham, Hadley	RStudio	23092619300	1	asdf		
+Richardson, Sylvia T.	MRC Biostatistics Unit	7202589117	0	1		
+Gneiting, Tilmann	Karlsruher Institut für Technologie	7003342687	0	1		
+Lin, Danyu	UNC Gillings School of Global Public Health	7403692293	0	1		
+Meinshausen, Nicolai F.	ETH Zürich	55884295300		x		
+Husson, François	Institut de Recherche Mathématique de Rennes	6603780918	0	1		
+Quarteroni, Alfio Maria	Politecnico di Milano	35618484900	0	1		
+Wu, Jianhong	York University	56962772700	0	1		
+Small, Dylan S.	Penn Medicine	14025065700	0	1		
+van den Driessche, Pauline V.	University of Victoria	7005766392		x		
