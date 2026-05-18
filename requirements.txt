@@ -1,2 +1,4 @@
 requests>=2.32.5
-pybliometrics>=4.3
+pybliometrics==4.4.1
+tqdm>=4.67.3
+orcidfetch==0.5
